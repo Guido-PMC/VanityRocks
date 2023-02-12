@@ -10,7 +10,7 @@
       "dependencies": {
             "@googlemaps/js-api-loader": "^1.12.5",
             "@popperjs/core": "^2.10.2",
-            "@types/svg4everybody": "^2.1.2",
+            "@types/svg4noeverybody": "^2.1.2",
             "aos": "^3.0.0-beta.6",
             "baguettebox.js": "^1.11.1",
             "bootstrap": "^5.1.3",
